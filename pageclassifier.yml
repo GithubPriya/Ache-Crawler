@@ -1,0 +1,9 @@
+type: url_regex
+parameters:
+  regular_expressions: [
+      "https:\\/\\/www\\.ezcontacts\\.com\\/product\\/eyeglasses\\/.*",
+      "https:\\/\\/www\\.ezcontacts\\.com\\/womens\\-eyeglasses\\/frame\\-type\\:full\\-frame\\/.*",
+      "https://www.ezcontacts.com/eyeglasses",
+      "https://www.ezcontacts.com/mens-eyeglasses",
+      "https://www.ezcontacts.com/womens-eyeglasses",
+      "https://www.ezcontacts.com/womens-eyeglasses/frame-type:full-frame"]
